@@ -4,7 +4,7 @@
 URL_FILE="urls.txt"
 
 # Change this to the directory where you want to save the downloaded files
-DOWNLOAD_DIR="/mnt/sdc"
+DOWNLOAD_DIR="/mnt/sdc/downloaded"
 
 # Loop through each line in the text file
 while IFS= read -r url; do
